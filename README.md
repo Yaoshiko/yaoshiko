@@ -9,7 +9,7 @@
 ███   ███ ██▄ ▄▄   ▄███▄  ██ ██ ██   ███    ███ ██▄ ▀████ ▀███▀ ██ ▀█▄██  ██ 
              ▄█▀                                                             
     </pre>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=450&width=300&lines=Application Architect 🏗️;Full-stack engineer 💾; Pizza maker 🍕;Open to collaboration! 🤓" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=450&width=300&lines=Application+Architect+%F0%9F%8F%97%EF%B8%8F;Full-stack+engineer+%F0%9F%92%BE;Pizza+maker+%F0%9F%8D%95;Open+to+collaboration%21+%F0%9F%A4%93" alt="Typing SVG"/>
 </div>
 
 <!-- Summary -->
