@@ -35,7 +35,17 @@ learning:
 hobbies[3]: Gaming,Pizza,Breadmaking
 ```
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yaoshiko?theme=dark&font=Ramabhadra&ext=heatmap" alt="LeetCode Stats" />
+  <img
+    src="https://leetcard.jacoblin.cool/Yaoshiko?theme=dark&font=Ramabhadra&ext=heatmap"
+    alt="LeetCode Stats"
+    width="500"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="assets/hacker_cat.gif"
+    alt="Hacker Cat"
+    width="300"
+  />
 </p>
 
 <!-- Why so serious? -->
