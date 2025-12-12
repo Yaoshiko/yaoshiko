@@ -65,5 +65,9 @@ hobbies[3]: Gaming,Pizza,Breadmaking
   <br>
   01110101  01100100 01101001 01100100  01101001 01110100
 </p>
-
 <br clear="left" />
+
+Reload the page for more memes (*I take no responsibility for cringe contents*).
+<p align="center">
+  <img src="https://meme-generator.nicola-barletta.workers.dev" alt="meme" />
+</p>
