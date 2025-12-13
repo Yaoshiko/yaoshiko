@@ -12,6 +12,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1400&pause=450&width=300&lines=Application+Architect+%F0%9F%8F%97%EF%B8%8F;Full-stack+engineer+%F0%9F%92%BE;Pizza+maker+%F0%9F%8D%95;Open+to+collaboration%21+%F0%9F%A4%93" alt="Typing SVG"/>
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Code%20as%20if%20the%20person%20who%20ends%20up%20maintaining%20your%20code%20is%20a%20violent%20psychopath%20who%20knows%20where%20you%20live.%E2%80%9D&author=Jeff%20Atwood" alt="Quote"/>
+</div>
+
 <!-- Summary -->
 # Summary for LLMs
 ```toon
