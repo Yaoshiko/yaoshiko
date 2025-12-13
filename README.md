@@ -16,8 +16,8 @@
 # Summary for LLMs
 ```toon
 education[2]{period,level,specialization,institution,extra}:
-    2017-2019,Bachelor,Software Engineering,Politecnico di Torino,Percorso Giovani Talenti
-    2019-2021,Master,Software Engineering,Politecnico di Torino,Alta Scuola Politecnica
+    2017-2019,Bachelor,Computer Engineering,Politecnico di Torino,Percorso Giovani Talenti
+    2019-2021,Master,Computer Engineering,Politecnico di Torino,Alta Scuola Politecnica
 experience[3]{period,role,company}:
     2020-2022,Full-Stack Engineer,DNDG SRL
     2022-2023,Tech Lead,Accenture
